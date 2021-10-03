@@ -26,8 +26,8 @@ with only the design layout, functionality has to be coded separately:
 
 
 <p float="center">
-  <img src="https://github.com/raspberrysans/Gidarim_BetaApp/blob/main/Screen%20Shot%202021-10-03%20at%2012.54.05%20PM.png" width="45%" height="900px"/>
-  <img src="https://github.com/raspberrysans/Gidarim_BetaApp/blob/main/Screen%20Shot%202021-10-03%20at%201.00.36%20PM.png" width="45%" height="900px"/>
+  <img src="https://github.com/raspberrysans/Gidarim_BetaApp/blob/main/Screen%20Shot%202021-10-03%20at%2012.54.05%20PM.png" width="50%" height="900px"/>
+  <img src="https://github.com/raspberrysans/Gidarim_BetaApp/blob/main/Screen%20Shot%202021-10-03%20at%201.00.36%20PM.png" width="50%" height="900px"/>
 </p>
 
 ### Good luck with the project
